@@ -1,0 +1,10 @@
+resturent management 
+
+1. customer
+2. owner
+3. workers
+4. menu
+5. booking
+6. room, cabin, tableSpace
+7. order
+8. bill
